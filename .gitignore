@@ -24,3 +24,6 @@ GNUmakefile.Demo_Subscriber
 *.Demo_Subscriber_Idl1
 
 *.Demo_Subscriber_Idl2
+*.*
+publisher
+subscriber

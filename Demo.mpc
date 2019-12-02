@@ -24,6 +24,6 @@ project(*Subscriber) : dcpsexe_with_tcp{
 	}
 	Source_Files{
 		Subscriber.cpp
-		DataReaderListenerImpl.cpp
+
 	}
 }
